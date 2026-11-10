@@ -18,9 +18,14 @@ My solutions to LeetCode problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
