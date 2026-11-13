@@ -8,6 +8,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/bhavyasrikodipaka/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
